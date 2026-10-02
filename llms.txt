@@ -1,0 +1,5 @@
+# AI Lifeboard
+> A free life dashboard with an AI coach: daily top 3, goals, focus timer, trackers, reminders, journal, money tools, bucket list. No account, saved on your device, syncs with allofus.one.
+- Site: https://www.ailifeboard.com/
+- The AI coach: built-in coach for everyone; add your own Claude API key for full AI from the browser. The app with built-in AI is coming (waitlist on the page).
+- Part of allofus.one (social media controlled by you) by Eye To Ad Media, Denver. 1-800-481-8638.
